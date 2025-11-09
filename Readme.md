@@ -24,13 +24,14 @@ The project included cleaning, transforming, modeling flight data, and creating 
 
 ## 🖼️ Dashboard Pages
 
-| Overview Page | Delay Cause Page |
-|---------------|----------------|
-| ![Overview](images/overview.png) | ![Delay Cause](images/delay_cause.png) |
 
-| Performance Page | Drillthrough Page |
-|-----------------|-----------------|
-| ![Performance](images/performance.png) | ![Drillthrough](images/drillthrough.png) |
+![Overview](images/overview.png)
+
+![Delay Cause](images/delay_cause.png)
+
+![Performance](images/performance.png)
+
+![Drillthrough](images/drillthrough.png)
 
 ---
 
@@ -42,3 +43,4 @@ The project included cleaning, transforming, modeling flight data, and creating 
 ### 🧑‍💻 Author
 **Omar Zahran**  
 📫 [LinkedIn](https://linkedin.com/in/omar-zahran) | [GitHub](https://github.com/yourusername)
+
